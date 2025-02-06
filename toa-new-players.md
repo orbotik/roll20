@@ -10,6 +10,8 @@ By familiarizing yourself with these options, you'll greatly speed up your chara
 > [!NOTE]
 > Want to *really* dive-deep into the game? Consider supporting [Pickpocket Press](https://lowfantasygaming.com/) and purchasing the [rules on DriveThruRPG](https://www.drivethrurpg.com/en/product/479871/tales-of-argosa?src=hottest_filtered). I personally :gift_heart: the printed book, it's approachable and elegant!
 
+![image](https://github.com/user-attachments/assets/f4a04db6-76e1-467c-8fac-0caf32d0f078)
+
 ## Classes
 
 ### Artificer
