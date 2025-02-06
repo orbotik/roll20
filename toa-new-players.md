@@ -10,7 +10,7 @@ By familiarizing yourself with these options, you'll greatly speed up your chara
 > [!NOTE]
 > Want to *really* dive-deep into the game? Consider supporting [Pickpocket Press](https://lowfantasygaming.com/) and purchasing the [rules on DriveThruRPG](https://www.drivethrurpg.com/en/product/479871/tales-of-argosa?src=hottest_filtered). I personally :gift_heart: the printed book, it's approachable and elegant!
 
-![image](https://github.com/user-attachments/assets/d132f7eb-5c7d-4a18-a4d8-1389dfe111ab)
+![image](https://github.com/user-attachments/assets/bb1e3fec-d417-4c24-9783-7c244147a95e)
 
 ## Classes
 
