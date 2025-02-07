@@ -176,6 +176,11 @@ Humans have a flair for adaptability and problem solving. They exhibit wide vari
 * Increase *maximum* **Rerolls** by 1\.  
 * During character creation, **apply +1** to an **attribute** of your choice.
 
+----
+
+> [!IMPORTANT]
+> 🏆 You're at the end! 
+
 <br>
 <br> 
 <br> 
