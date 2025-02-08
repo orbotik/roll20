@@ -5,7 +5,7 @@ Welcome new and potential players of [@orbotik](https://app.roll20.net/users/122
 By familiarizing yourself with these options, you'll greatly speed up your character creation process. So take a look, figure out what you like and don't like, then submit your game application!
 
 > [!TIP]
-> Don't worry to much if the terminology or concepts aren't clear. You'll be able o ask when the game begins, or by PMing [@orbotik](https://app.roll20.net/users/12231884/orbotik). Some details are purposefully omitted from these descriptions (for now).
+> Don't worry to much if the terminology or concepts aren't clear. Feel free to PM [@orbotik](https://app.roll20.net/users/12231884/orbotik) on Roll20 or ask in the game discussion. You can also pick up the rules (see note below). Some details are purposefully omitted from these descriptions (for now).
 
 > [!NOTE]
 > Want to *really* dive-deep into the game? Consider supporting [Pickpocket Press](https://lowfantasygaming.com/) and purchasing the [rules on DriveThruRPG](https://www.drivethrurpg.com/en/product/479871/tales-of-argosa?src=hottest_filtered). I personally :gift_heart: the printed book, it's approachable and elegant!
