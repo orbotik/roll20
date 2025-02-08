@@ -45,7 +45,12 @@ My game sessions are always being adjusted and tweaked, but in general, they are
 Please feel free to check out my available games to find one perfect for you!
 
 #### What about my character token?
-If you're eager to join an [@orbotik](https://app.roll20.net/users/12231884/orbotik) game session, I have a special game where you can pick out your favorite hero token from a wide selection (if you don't have one already). All my games user top-down drawn tokens from [Forgotten Adventures](https://www.forgotten-adventures.net/) and [Devin Night](https://immortalnights.com/)- though it's not a requirement for yours to be (just in a similar style is nice). 
+@orbotik maintains a token selection image from which you can choose a token for his games. All @orbotik games user top-down drawn tokens from [Forgotten Adventures](https://www.forgotten-adventures.net/) and [Devin Night](https://immortalnights.com/).
+
+- [High-Res](https://github.com/orbotik/roll20/blob/master/toa-new-players/tokens-high-res.webp)
+- [Low-Res](https://github.com/orbotik/roll20/blob/master/toa-new-players/tokens-low-res.webp)
+
+Just note the **color**, **letter** (column), and **number** (row) and inform @orbotik during the game which token you'd prefer.
 
 #### Prints & PDFs? Links?
 - [Tales of Argosia Announcement](https://lowfantasygaming.com/2023/06/15/tales-of-argosa-say-what-now/)
