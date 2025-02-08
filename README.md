@@ -4,5 +4,7 @@ Hi friends and players! This is my public repository to store game references, i
 ## Table of Contents
 
 ### Tales of Argosia
-- [New Player Introduction: Classes & Races](introduction.md)
+- [New Player Introduction: Classes & Races](toa-new-players/introduction.md)
+- [Choose a Token (High-res)](toa-new-players/tokens-high-res.webp)
+- [Choose a Token (Low-res)](toa-new-players/tokens-low-res.webp)
 - [Combat Diagram](diagrams/toa-diagram-combat.jpeg)
