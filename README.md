@@ -8,4 +8,5 @@ Hi friends and players! This is my public repository to store game references, i
 - [Choose a Token (High-res)](toa-new-players/tokens-high-res.webp)
 - [Choose a Token (Low-res)](toa-new-players/tokens-low-res.webp)
 - [Combat Diagram](diagrams/toa-diagram-combat.jpeg)
+- [Hexploration](diagrams/toa-diagram-hexploration.jpeg)
 - [Oracles Diagram (GM)](diagrams/toa-diagram-oracles.jpeg)
